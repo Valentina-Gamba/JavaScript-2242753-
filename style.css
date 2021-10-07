@@ -1,0 +1,19 @@
+body {
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+
+.listarimg  {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.listarimg a {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.listarimg a img {
+  width: 30px;
+  border-radius: 50%;
+}
